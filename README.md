@@ -80,6 +80,7 @@ Would the device benefit from a small battery or capacitor to keep the clock run
 Asymmetrical hole placement, so that you can't assemble the wrong way:
 
 <img src="fab_lab_isafjordur_injection_mold_by_johannes_konrad_weber.jpg" width="500">
+
 Injection mold designed by Johannes Konrad Weber.
 
 Pre-load things to eliminate rattle - use e.g. spring washers. 
