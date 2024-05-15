@@ -2,7 +2,7 @@
 
 Here are a few tips that might be useful for System integration week:
 
-#### Cable management
+## Cable management
 Svavar demonstrates how you can embed mesh fabric into 3D prints and make a cable carrier:
 
 <a href="https://fab.cba.mit.edu/classes/865.24/people/svavar/components/cable_carrier/"><video autoplay="true" loop="true" src="https://fab.cba.mit.edu/classes/865.24/people/svavar/components/images/cable_carrier/cable_carrier.mp4" title="3D printed cable carrier" width="500"></video></a>
@@ -15,7 +15,7 @@ Vineet Padia has mentioned [a way to document wiring harnesses](https://github.c
 
 It's good for students to know that [pogo pins](https://youtube.com/shorts/ujPLo5TwJpo?si=bV2MN7eU0-r7oVI-) and [slip rings](https://www.electrical4u.com/slip-ring/?utm_content=cmp-true) exist.
 
-#### Packaging
+### Packaging
 
 A nice example of the importance of packaging:
 <table style="width:100%">
@@ -33,24 +33,24 @@ A nice example of the importance of packaging:
 
 [The work that comes after the first rough prototype](https://youtu.be/caYl8u7Gd0A?si=M49v6m-484e8k_2f) 
 
-#### Nice prototyping
+### Nice prototyping
 
 A good [quote](https://makezine.com/article/digital-fabrication/machining/18-lessons-smart-prototyping-self-made-billionaire/) from Dan Gelbart:
 >I cannot overemphasise the importance of making everything with keyholes and slots and captive hardware. If you spend all your life in R&D you’ll spend about one year of your life taking screws out of covers, so if you do it in slots, it’s the same as extending your life by the same amount of health food plus exercise extends your life, and it’s much simpler.
 
 Dan Gelbart's classic notes on quick prototyping: [Part 1](https://people.ece.ubc.ca/leos/pdf/tools/machine/DGCourseNotes.pdf), [Part 2](https://people.ece.ubc.ca/leos/pdf/tools/machine/DGCourseNotes2.pdf)
 
-#### Documentation
+### Documentation
 
 Good ways to document electronics on a website:
 - [InteractiveHtmlBom](https://github.com/openscopeproject/InteractiveHtmlBom)
 - [Kicanvas](https://kicanvas.org/)
 
-#### Food projects
+### Food projects
 
 [Food safe design principles](https://www.meatinstitute.org/sites/default/files/original%20documents/Sanitation%20booklet%202021.pdf) (inert materials, simple shapes that are easy to clean, smooth surfaces, no crevices where water collects and bacteria can grow)
 
-#### Design for safety
+### Design for safety
 
 <table style="width:100%">
   <tr>
@@ -62,7 +62,7 @@ Good ways to document electronics on a website:
   </tr>
 </table>
 
-#### Usability
+### Usability
 
 A QR code on the device that points to the manual can be a nice touch.
 
@@ -70,9 +70,9 @@ Design 3D printed enclosures with [shadow lines](https://youtu.be/8dhFhU7Nl_0?si
 
 Would the device benefit from a small battery or capacitor to keep the clock running while it's not connected to power?
 
-#### Assembly
+### Assembly
 
-Asymmetrical holes, so that you can't assemble the wrong way:
+Asymmetrical hole placement, so that you can't assemble the wrong way:
 
 <img src="fab_lab_isafjordur_injection_mold_by_johannes_konrad_weber.jpg" width="500">
 
@@ -80,7 +80,7 @@ Pre-load things to eliminate rattle - use e.g. spring washers.
 - [Automotive buzz, squeak and rattle book](https://www.amazon.com/Automotive-Buzz-Squeak-Rattle-Mechanisms-ebook/dp/B006NVY2VS) 
 - [Development of the Saab squeak and rattle design guidelines](http://www.diva-portal.org/smash/get/diva2:215325/FULLTEXT01.pdf)
 
-#### Design for repair
+### Design for repair
 
 The amplifier unit in this PA speaker has a generous cable length, so Þórarinn could pop it out and troubleshoot: 
 <img src="speaker_repair.jpg" width="500">
