@@ -40,6 +40,8 @@ A nice example of the importance of packaging:
 
 Dan Gelbart's classic notes on quick prototyping: [Part 1](https://people.ece.ubc.ca/leos/pdf/tools/machine/DGCourseNotes.pdf), [Part 2](https://people.ece.ubc.ca/leos/pdf/tools/machine/DGCourseNotes2.pdf)
 
+Dan says that you can prototype just about anything with a [waterjet cutter](https://wazer.com/) (because it cuts through any material with good precision), a [press brake](https://en.wikipedia.org/wiki/Press_brake) and some welding tools. Take a look at the examples in his notes, they're fantastic.
+
 ### Documentation
 
 Good ways to document electronics on a website:
