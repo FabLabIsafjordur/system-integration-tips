@@ -2,18 +2,14 @@
 
 Here are a few tips that might be useful for [System integration week](http://academy.cba.mit.edu/classes/system_integration/index.html) in the [Fab Academy](https://fabacademy.org/):
 
-### Cable management
-[Svavar](https://fabacademy.org/2023/labs/isafjordur/students/svavar-konradsson/) demonstrates how you can embed mesh fabric into 3D prints and make a cable carrier:
+### Nice prototyping
 
-<a href="https://fab.cba.mit.edu/classes/865.24/people/svavar/components/cable_carrier/"><video autoplay="true" loop="true" src="https://fab.cba.mit.edu/classes/865.24/people/svavar/components/images/cable_carrier/cable_carrier.mp4" title="3D printed cable carrier" width="500"></video></a>
+[Quote](https://makezine.com/article/digital-fabrication/machining/18-lessons-smart-prototyping-self-made-billionaire/) from Dan Gelbart:
+>I cannot overemphasise the importance of making everything with keyholes and slots and captive hardware. If you spend all your life in R&D you’ll spend about one year of your life taking screws out of covers, so if you do it in slots, it’s the same as extending your life by the same amount of health food plus exercise extends your life, and it’s much simpler.
 
-Links from [Cedric Honnet](https://honnet.github.io/):
+Dan Gelbart's classic notes on quick prototyping: [Part 1](https://people.ece.ubc.ca/leos/pdf/tools/machine/DGCourseNotes.pdf), [Part 2](https://people.ece.ubc.ca/leos/pdf/tools/machine/DGCourseNotes2.pdf)
 
-"Cables can be protected by [articulated](https://www.amazon.com/Plastic-Machine-Carrier-Ted-Lele/dp/B074S2GQ56/?th=1), [braided](https://www.amazon.com/Keco-100ft-Expandable-Braided-Sleeving/dp/B07K1WP871?th=1) or [hybrid wrappers](https://www.amazon.com/Management-Diameter-Organizer-Expandable-Concealer/dp/B07PPR47ZV/?th=1)".
-
-[Vineet Padia](https://vineetpadia.github.io/about.html) has mentioned [a way to document wiring harnesses](https://github.com/wireviz/WireViz).
-
-It's good for students to know that [pogo pins](https://youtube.com/shorts/ujPLo5TwJpo?si=bV2MN7eU0-r7oVI-) and [slip rings](https://www.electrical4u.com/slip-ring/?utm_content=cmp-true) exist.
+Dan says that you can prototype just about anything with a [waterjet cutter](https://wazer.com/) (because it cuts through any material with good precision), a [press brake](https://en.wikipedia.org/wiki/Press_brake) and some welding tools. Take a look at the examples in his notes, they're fantastic.
 
 ### Packaging
 
@@ -40,21 +36,6 @@ Wires hidden inside the structure of an LED-studded dress and integrated button,
 <img src="https://fabacademy.org/2023/labs/isafjordur/students/hafey-hallgrimsdottir/images/Final%20Project/g16.JPG" width="100%">
 
 [The work that comes after the first rough prototype](https://youtu.be/caYl8u7Gd0A?si=M49v6m-484e8k_2f) 
-
-### Nice prototyping
-
-[Quote](https://makezine.com/article/digital-fabrication/machining/18-lessons-smart-prototyping-self-made-billionaire/) from Dan Gelbart:
->I cannot overemphasise the importance of making everything with keyholes and slots and captive hardware. If you spend all your life in R&D you’ll spend about one year of your life taking screws out of covers, so if you do it in slots, it’s the same as extending your life by the same amount of health food plus exercise extends your life, and it’s much simpler.
-
-Dan Gelbart's classic notes on quick prototyping: [Part 1](https://people.ece.ubc.ca/leos/pdf/tools/machine/DGCourseNotes.pdf), [Part 2](https://people.ece.ubc.ca/leos/pdf/tools/machine/DGCourseNotes2.pdf)
-
-Dan says that you can prototype just about anything with a [waterjet cutter](https://wazer.com/) (because it cuts through any material with good precision), a [press brake](https://en.wikipedia.org/wiki/Press_brake) and some welding tools. Take a look at the examples in his notes, they're fantastic.
-
-### Documentation
-
-Good ways to document electronics on a website:
-- [InteractiveHtmlBom](https://github.com/openscopeproject/InteractiveHtmlBom)
-- [Kicanvas](https://kicanvas.org/) (still in alpha, but you can [embed](https://kicanvas.org/embedding/) KiCAD files on a web page)
 
 ### Food projects
 
@@ -85,6 +66,28 @@ Design 3D printed enclosures with [shadow lines](https://youtu.be/8dhFhU7Nl_0?si
 
 Would the device benefit from a small battery or capacitor to keep the clock running while it's not connected to power?
 
+### Cable management
+[Svavar](https://fabacademy.org/2023/labs/isafjordur/students/svavar-konradsson/) demonstrates how you can embed mesh fabric into 3D prints and make a cable carrier:
+
+<a href="https://fab.cba.mit.edu/classes/865.24/people/svavar/components/cable_carrier/"><video autoplay="true" loop="true" src="https://fab.cba.mit.edu/classes/865.24/people/svavar/components/images/cable_carrier/cable_carrier.mp4" title="3D printed cable carrier" width="500"></video></a>
+
+Links from [Cedric Honnet](https://honnet.github.io/):
+
+"Cables can be protected by [articulated](https://www.amazon.com/Plastic-Machine-Carrier-Ted-Lele/dp/B074S2GQ56/?th=1), [braided](https://www.amazon.com/Keco-100ft-Expandable-Braided-Sleeving/dp/B07K1WP871?th=1) or [hybrid wrappers](https://www.amazon.com/Management-Diameter-Organizer-Expandable-Concealer/dp/B07PPR47ZV/?th=1)".
+
+[Vineet Padia](https://vineetpadia.github.io/about.html) has mentioned [a way to document wiring harnesses](https://github.com/wireviz/WireViz).
+
+It's good for students to know that [pogo pins](https://youtube.com/shorts/ujPLo5TwJpo?si=bV2MN7eU0-r7oVI-) and [slip rings](https://www.electrical4u.com/slip-ring/?utm_content=cmp-true) exist.
+
+### Design for repair
+
+The amplifier unit in this PA speaker has a generous cable length, so [Þórarinn](https://fabacademy.org/archives/2015/eu/students/gunnarsson.thorarinn_b.b/index.html) could pop it out and troubleshoot: 
+<img src="speaker_repair.jpg" width="500">
+
+[Right to repair](https://en.wikipedia.org/wiki/) 
+
+[Repair cafe](https://www.repaircafe.org/en/) (we host those at Fab Lab Ísafjörður, the atmosphere is great and it boosts community engagement with the lab)
+
 ### Assembly
 
 Asymmetrical hole placement, so that you can't assemble the wrong way:
@@ -97,12 +100,8 @@ Pre-load things to eliminate rattle - use e.g. spring washers.
 - [Automotive buzz, squeak and rattle book](https://www.amazon.com/Automotive-Buzz-Squeak-Rattle-Mechanisms-ebook/dp/B006NVY2VS) 
 - [Development of the Saab squeak and rattle design guidelines](http://www.diva-portal.org/smash/get/diva2:215325/FULLTEXT01.pdf)
 
-### Design for repair
+### Documentation
 
-The amplifier unit in this PA speaker has a generous cable length, so [Þórarinn](https://fabacademy.org/archives/2015/eu/students/gunnarsson.thorarinn_b.b/index.html) could pop it out and troubleshoot: 
-<img src="speaker_repair.jpg" width="500">
-
-[Right to repair](https://en.wikipedia.org/wiki/) 
-
-[Repair cafe](https://www.repaircafe.org/en/) (we host those at Fab Lab Ísafjörður, the atmosphere is great and it boosts community engagement with the lab)
-
+Good ways to document electronics on a website:
+- [InteractiveHtmlBom](https://github.com/openscopeproject/InteractiveHtmlBom)
+- [Kicanvas](https://kicanvas.org/) (still in alpha, but you can [embed](https://kicanvas.org/embedding/) KiCAD files on a web page)
