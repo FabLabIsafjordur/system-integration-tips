@@ -25,8 +25,6 @@ A nice example of the importance of packaging:
     </td>
   </tr>
 </table>
- https://youtu.be/1gPQfDkX3BU?si=Nw4lrJQ-mKGDoMy1&t=859
- https://youtu.be/ip641WmY4pA?si=FMXZIBXmvUoXk3_i
 
 A good [quote](https://makezine.com/article/digital-fabrication/machining/18-lessons-smart-prototyping-self-made-billionaire/) from Dan Gelbart:
 >I cannot overemphasise the importance of making everything with keyholes and slots and captive hardware. If you spend all your life in R&D you’ll spend about one year of your life taking screws out of covers, so if you do it in slots, it’s the same as extending your life by the same amount of health food plus exercise extends your life, and it’s much simpler.
@@ -34,9 +32,8 @@ A good [quote](https://makezine.com/article/digital-fabrication/machining/18-les
 Dan Gelbart's classic notes on quick prototyping: [Part 1](https://people.ece.ubc.ca/leos/pdf/tools/machine/DGCourseNotes.pdf), [Part 2](https://people.ece.ubc.ca/leos/pdf/tools/machine/DGCourseNotes2.pdf)
 
 Good ways to document electronics on a website:
-[InteractiveHtmlBom](https://github.com/openscopeproject/InteractiveHtmlBom)
-
-[Kicanvas](https://kicanvas.org/)
+- [InteractiveHtmlBom](https://github.com/openscopeproject/InteractiveHtmlBom)
+- [Kicanvas](https://kicanvas.org/)
 
 [Food safe design principles](https://www.meatinstitute.org/sites/default/files/original%20documents/Sanitation%20booklet%202021.pdf) (inert materials, simple shapes that are easy to clean, smooth surfaces, no crevices where water collects and bacteria can grow)
 
@@ -53,9 +50,8 @@ Asymmetrical holes, so that you can't assemble the wrong way:
 ![Asymmetrical holes](https://files.svavar.cc/fab/fab_lab_isafjordur_injection_mold_by_johannes_konrad_weber.jpg)
 
 Pre-load things to eliminate rattle - use e.g. spring washers. 
-[Automotive buzz, squeak and rattle book](https://www.amazon.com/Automotive-Buzz-Squeak-Rattle-Mechanisms-ebook/dp/B006NVY2VS) 
-
-[Development of the Saab squeak and rattle design guidelines](http://www.diva-portal.org/smash/get/diva2:215325/FULLTEXT01.pdf)
+- [Automotive buzz, squeak and rattle book](https://www.amazon.com/Automotive-Buzz-Squeak-Rattle-Mechanisms-ebook/dp/B006NVY2VS) 
+- [Development of the Saab squeak and rattle design guidelines](http://www.diva-portal.org/smash/get/diva2:215325/FULLTEXT01.pdf)
 
 Usability: Would the device benefit from a small battery or capacitor to keep the clock running while it's not connected to power?
 
