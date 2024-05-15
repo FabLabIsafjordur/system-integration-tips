@@ -4,8 +4,6 @@ Here are a few tips that might be useful for System integration week:
 
 You can embed mesh fabric into 3D prints and make a cable carrier:
 
-[![3D printed cable carrier](https://fab.cba.mit.edu/classes/865.24/people/svavar/components/images/cable_carrier/cable_carrier.jpg)](https://fab.cba.mit.edu/classes/865.24/people/svavar/components/cable_carrier/)
-
 <a href="https://fab.cba.mit.edu/classes/865.24/people/svavar/components/cable_carrier/"><video autoplay="true" loop="true" src="https://fab.cba.mit.edu/classes/865.24/people/svavar/components/images/cable_carrier/cable_carrier.mp4" title="3D printed cable carrier"></video></a>
 
 Svavar made this as a response to Nikhil Lal's question on Discord about how we were managing cables. Cedric Honnet posted this:
@@ -39,8 +37,15 @@ Good ways to document electronics on a website:
 
 [Food safe design principles](https://www.meatinstitute.org/sites/default/files/original%20documents/Sanitation%20booklet%202021.pdf) (inert materials, simple shapes that are easy to clean, smooth surfaces, no crevices where water collects and bacteria can grow)
 
-Safety features: A colleague at an Icelandic company put two buttons far apart on a silicone molding press. The operator needs to push the buttons with both hands to operate the press, to eliminate the chance of getting their hand crushed:
-![Design for safety](https://www.osha.gov/sites/default/files/inline-images/pb11.gif)*Image from [OSHA](https://www.osha.gov/etools/machine-guarding/presses/two-hand-controls#mod1)*
+<table style="width:100%">
+  <tr>
+    <td>Safety features: A colleague at an Icelandic company put two buttons far apart on a silicone molding press. The operator needs to push the buttons with both hands to operate the press, to eliminate the chance of getting their hand crushed.
+    </td>
+    <td>![Design for safety](https://www.osha.gov/sites/default/files/inline-images/pb11.gif)
+    *Image from [OSHA](https://www.osha.gov/etools/machine-guarding/presses/two-hand-controls#mod1)*
+    </td>
+  </tr>
+</table>
 
 A QR code on the device that points to the manual can be a nice touch.
 
@@ -49,6 +54,8 @@ It's good for students to know that pogo pins and slip rings exist.
 Design 3D printed enclosures with [shadow lines](https://youtu.be/8dhFhU7Nl_0?si=9pBpZQx7DmvqgBTx) like they do for injection molding.
 
 Asymmetrical holes, so that you can't assemble the wrong way:
+<img src="![URL](https://files.svavar.cc/fab/fab_lab_isafjordur_injection_mold_by_johannes_konrad_weber.jpg)" width="500" height="600">
+
 ![Asymmetrical holes](https://files.svavar.cc/fab/fab_lab_isafjordur_injection_mold_by_johannes_konrad_weber.jpg)
 
 Pre-load things to eliminate rattle - use e.g. spring washers. 
