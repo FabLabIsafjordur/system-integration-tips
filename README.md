@@ -62,7 +62,7 @@ Good ways to document electronics on a website:
     <td>Safety features: A colleague at an Icelandic company put two buttons far apart on a silicone molding press. The operator needs to push the buttons with both hands to operate the press, to eliminate the chance of getting their hand crushed.
     </td>
     <td><img src="https://www.osha.gov/sites/default/files/inline-images/pb11.gif">
-    Image from <a href="https://www.osha.gov/etools/machine-guarding/presses/two-hand-controls#mod1">OSHA</a>
+    <i>Image from <a href="https://www.osha.gov/etools/machine-guarding/presses/two-hand-controls#mod1">OSHA</a></i>
     </td>
   </tr>
 </table>
@@ -81,7 +81,7 @@ Asymmetrical hole placement, so that you can't assemble the wrong way:
 
 <img src="fab_lab_isafjordur_injection_mold_by_johannes_konrad_weber.jpg" width="500">
 
-Injection mold designed by [Jóhannes Andrésson](https://www.linkedin.com/in/johannes-weber/).
+<i>Injection mold designed and fabricated by [Jóhannes Andrésson](https://www.linkedin.com/in/johannes-weber/).</i>
 
 Pre-load things to eliminate rattle - use e.g. spring washers. 
 - [Automotive buzz, squeak and rattle book](https://www.amazon.com/Automotive-Buzz-Squeak-Rattle-Mechanisms-ebook/dp/B006NVY2VS) 
