@@ -31,6 +31,14 @@ A nice example of the importance of packaging:
   </tr>
 </table>
 
+A nice transparent final project by [Árni Björnsson](https://fabacademy.org/2022/labs/isafjordur/students/arni-bjornsson/):
+
+<img src="https://fabacademy.org/2022/labs/isafjordur/students/arni-bjornsson/images/final/mountedBack.jpg" width="400">
+
+Wires hidden inside the structure of an LED-studded dress and integrated button, by [Hafey Hallgrímsdóttir](https://fabacademy.org/2023/labs/isafjordur/students/hafey-hallgrimsdottir/):
+
+<img src="https://fabacademy.org/2022/labs/isafjordur/students/arni-bjornsson/images/final/mountedBack.jpg" width="100%">
+
 [The work that comes after the first rough prototype](https://youtu.be/caYl8u7Gd0A?si=M49v6m-484e8k_2f) 
 
 ### Nice prototyping
