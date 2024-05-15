@@ -1,8 +1,6 @@
 # system-integration-tips
 Tips on how finish your project nicely 
 
-<video autoplay="true" loop="true" src="smartknob_detents.mp4" title=""></video>
-
 Here are a few links that might be useful for System integration week:
 
 You can embed mesh fabric into 3D prints and make a cable carrier:
@@ -22,12 +20,12 @@ A nice example of the importance of packaging:
 <table style="width:100%">
   <tr>
     <td>Virtual detents were developed by Jesse Schoch:
-    <video autoplay="true" loop="true" width=100%>
-        <source src="https://github.com/FabLabIsafjordur/system-integration-tips/blob/18ea2719c7f38d54e8beacdb53120f4155556b67/virtual_detents.mp4" type="video/mp4">
+    
+    <video autoplay="true" loop="true" src="virtual_detents.mp4" title=""></video>
     </video></td>
     <td>But the method didn't become popular until it was packaged as the SmartKnob by Scott Bezek:
-    <video autoplay="true" loop="true" width=100%>
-        <source src="smartknob_detents.mp4" type="video/mp4">
+
+    <video autoplay="true" loop="true" src="smartknob_detents.mp4" title=""></video>
     </video></td>
   </tr>
 </table>
