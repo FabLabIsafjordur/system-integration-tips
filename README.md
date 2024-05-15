@@ -55,7 +55,7 @@ Design 3D printed enclosures with [shadow lines](https://youtu.be/8dhFhU7Nl_0?si
 
 Asymmetrical holes, so that you can't assemble the wrong way:
 
-<img src="!https://files.svavar.cc/fab/fab_lab_isafjordur_injection_mold_by_johannes_konrad_weber.jpg" width="500">
+<img src="!https://files.svavar.cc/fab/fab_lab_isafjordur_injection_mold_by_johannes_konrad_weber.jpg" width="500" height="500">
 
 ![Asymmetrical holes](https://files.svavar.cc/fab/fab_lab_isafjordur_injection_mold_by_johannes_konrad_weber.jpg)
 
