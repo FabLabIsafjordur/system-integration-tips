@@ -1,7 +1,6 @@
-# system-integration-tips
-Tips on how finish your project nicely 
+# system-integration-tips ([repo](https://github.com/FabLabIsafjordur/system-integration-tips))
 
-Here are a few links that might be useful for System integration week:
+Here are a few tips that might be useful for System integration week:
 
 You can embed mesh fabric into 3D prints and make a cable carrier:
 
@@ -11,9 +10,6 @@ Svavar made this as a response to Nikhil Lal's question on Discord about how we 
 
 "Cables can be protected by [articulated](https://www.amazon.com/Plastic-Machine-Carrier-Ted-Lele/dp/B074S2GQ56/?th=1), [braided](https://www.amazon.com/Keco-100ft-Expandable-Braided-Sleeving/dp/B07K1WP871?th=1) or [hybrid wrappers](https://www.amazon.com/Management-Diameter-Organizer-Expandable-Concealer/dp/B07PPR47ZV/?th=1)".
 
-
-https://github.com/FabLabIsafjordur/system-integration-tips/blob/18ea2719c7f38d54e8beacdb53120f4155556b67/virtual_detents.mp4
-
 Vineet Padia mentioned [a way to document wiring harnesses](https://github.com/wireviz/WireViz).
 
 A nice example of the importance of packaging:
@@ -22,51 +18,48 @@ A nice example of the importance of packaging:
     <td>Virtual detents were developed by Jesse Schoch:
     
     <video autoplay="true" loop="true" src="virtual_detents.mp4" title=""></video>
-    </video></td>
+    </td>
     <td>But the method didn't become popular until it was packaged as the SmartKnob by Scott Bezek:
 
     <video autoplay="true" loop="true" src="smartknob_detents.mp4" title=""></video>
-    </video></td>
+    </td>
   </tr>
 </table>
  https://youtu.be/1gPQfDkX3BU?si=Nw4lrJQ-mKGDoMy1&t=859
  https://youtu.be/ip641WmY4pA?si=FMXZIBXmvUoXk3_i
 
-I like this quote from Dan Gelbart:
-“I cannot overemphasise the importance of making everything with keyholes and slots and captive hardware. If you spend all your life in R&D you’ll spend about one year of your life taking screws out of covers, so if you do it in slots, it’s the same as extending your life by the same amount of health food plus exercise extends your life, and it’s much simpler.”
-Source: https://makezine.com/article/digital-fabrication/machining/18-lessons-smart-prototyping-self-made-billionaire/
+A good [quote](https://makezine.com/article/digital-fabrication/machining/18-lessons-smart-prototyping-self-made-billionaire/) from Dan Gelbart:
+>I cannot overemphasise the importance of making everything with keyholes and slots and captive hardware. If you spend all your life in R&D you’ll spend about one year of your life taking screws out of covers, so if you do it in slots, it’s the same as extending your life by the same amount of health food plus exercise extends your life, and it’s much simpler.
 
-Dan Gelbart's notes on quick prototyping:
-https://people.ece.ubc.ca/leos/pdf/tools/machine/DGCourseNotes.pdf
-https://people.ece.ubc.ca/leos/pdf/tools/machine/DGCourseNotes2.pdf
+Dan Gelbart's notes on quick prototyping: [Part 1](https://people.ece.ubc.ca/leos/pdf/tools/machine/DGCourseNotes.pdf), [Part 2](https://people.ece.ubc.ca/leos/pdf/tools/machine/DGCourseNotes2.pdf)
 
 Good ways to document electronics on a website:
-https://github.com/openscopeproject/InteractiveHtmlBom
-https://kicanvas.org/
+[InteractiveHtmlBom](https://github.com/openscopeproject/InteractiveHtmlBom)
+[Kicanvas](https://kicanvas.org/)
 
-Food safe design principles (inert materials, simple shapes that are easy to clean, smooth surfaces, no crevices where water collects and bacteria can grow): https://www.meatinstitute.org/sites/default/files/original%20documents/Sanitation%20booklet%202021.pdf
+[Food safe design principles](https://www.meatinstitute.org/sites/default/files/original%20documents/Sanitation%20booklet%202021.pdf) (inert materials, simple shapes that are easy to clean, smooth surfaces, no crevices where water collects and bacteria can grow)
 
-Safety features: A colleague of mine put two buttons far apart on a silicone molding press. The operator needs to push the buttons with both hands to operate the press, to eliminate the chance of getting their hand crushed: https://www.osha.gov/etools/machine-guarding/presses/two-hand-controls#mod1
+Safety features: A colleague at an Icelandic company put [two buttons far apart](https://www.osha.gov/etools/machine-guarding/presses/two-hand-controls#mod1) on a silicone molding press. The operator needs to push the buttons with both hands to operate the press, to eliminate the chance of getting their hand crushed.
 
 A QR code on the device that points to the manual can be a nice touch.
 
 It's good for students to know that pogo pins and slip rings exist.
 
-Design 3D printed enclosures with shadow lines like they do for injection molding: https://youtu.be/8dhFhU7Nl_0?si=9pBpZQx7DmvqgBTx
+Design 3D printed enclosures with [shadow lines](https://youtu.be/8dhFhU7Nl_0?si=9pBpZQx7DmvqgBTx) like they do for injection molding.
 
 Asymmetrical holes, so that you can't assemble the wrong way:
-https://files.svavar.cc/fab/fab_lab_isafjordur_injection_mold_by_johannes_konrad_weber.jpg
+![Asymmetrical holes](https://files.svavar.cc/fab/fab_lab_isafjordur_injection_mold_by_johannes_konrad_weber.jpg)
 
 Pre-load things to eliminate rattle - use e.g. spring washers. 
-Automotive buzz, squeak and rattle book: https://www.amazon.com/Automotive-Buzz-Squeak-Rattle-Mechanisms-ebook/dp/B006NVY2VS
-Development of the Saab squeak and rattle design guidelines: http://www.diva-portal.org/smash/get/diva2:215325/FULLTEXT01.pdf
-Squeaks and rattles kit: https://shop.newgatesimms.com/product/squeaks-and-rattles-kit/
+[Automotive buzz, squeak and rattle book](https://www.amazon.com/Automotive-Buzz-Squeak-Rattle-Mechanisms-ebook/dp/B006NVY2VS) 
+[Development of the Saab squeak and rattle design guidelines](http://www.diva-portal.org/smash/get/diva2:215325/FULLTEXT01.pdf)
 
 Usability: Would the device benefit from a small battery or capacitor to keep the clock running while it's not connected to power?
 
-A video that shows good packaging and the work that comes after the prototype: https://youtu.be/caYl8u7Gd0A?si=M49v6m-484e8k_2f
+[The work that comes after the first rough prototype](https://youtu.be/caYl8u7Gd0A?si=M49v6m-484e8k_2f) 
 
-Design for repair: The amplifier unit in this PA speaker has a generous cable length, so Þórarinn could pop it out and troubleshoot: https://files.svavar.cc/fab/speaker_repair.jpg
-Right to repair: https://en.wikipedia.org/wiki/Right_to_repair
-Repair cafe (we host those): https://www.repaircafe.org/en/
+Design for repair: The amplifier unit in this PA speaker has a generous cable length, so Þórarinn could pop it out and troubleshoot: 
+![PA speaker repair](https://files.svavar.cc/fab/speaker_repair.jpg)
+[Right to repair](https://en.wikipedia.org/wiki/) 
+[Repair cafe](https://www.repaircafe.org/en/) (we host those at Fab Lab Ísafjörður, the atmosphere is great and it boosts community engagement with the lab)
 
