@@ -1,8 +1,8 @@
-### System integration tips from Fab Lab Ísafjörður
+## System integration tips from Fab Lab Ísafjörður
 
 Here are a few tips that might be useful for System integration week:
 
-## Cable management
+### Cable management
 Svavar demonstrates how you can embed mesh fabric into 3D prints and make a cable carrier:
 
 <a href="https://fab.cba.mit.edu/classes/865.24/people/svavar/components/cable_carrier/"><video autoplay="true" loop="true" src="https://fab.cba.mit.edu/classes/865.24/people/svavar/components/images/cable_carrier/cable_carrier.mp4" title="3D printed cable carrier" width="500"></video></a>
@@ -35,7 +35,7 @@ A nice example of the importance of packaging:
 
 ### Nice prototyping
 
-A good [quote](https://makezine.com/article/digital-fabrication/machining/18-lessons-smart-prototyping-self-made-billionaire/) from Dan Gelbart:
+[Quote](https://makezine.com/article/digital-fabrication/machining/18-lessons-smart-prototyping-self-made-billionaire/) from Dan Gelbart:
 >I cannot overemphasise the importance of making everything with keyholes and slots and captive hardware. If you spend all your life in R&D you’ll spend about one year of your life taking screws out of covers, so if you do it in slots, it’s the same as extending your life by the same amount of health food plus exercise extends your life, and it’s much simpler.
 
 Dan Gelbart's classic notes on quick prototyping: [Part 1](https://people.ece.ubc.ca/leos/pdf/tools/machine/DGCourseNotes.pdf), [Part 2](https://people.ece.ubc.ca/leos/pdf/tools/machine/DGCourseNotes2.pdf)
@@ -44,11 +44,16 @@ Dan Gelbart's classic notes on quick prototyping: [Part 1](https://people.ece.ub
 
 Good ways to document electronics on a website:
 - [InteractiveHtmlBom](https://github.com/openscopeproject/InteractiveHtmlBom)
-- [Kicanvas](https://kicanvas.org/)
+- [Kicanvas](https://kicanvas.org/) (still in alpha, but you can [embed](https://kicanvas.org/embedding/) KiCAD files on a web page)
 
 ### Food projects
 
-[Food safe design principles](https://www.meatinstitute.org/sites/default/files/original%20documents/Sanitation%20booklet%202021.pdf) (inert materials, simple shapes that are easy to clean, smooth surfaces, no crevices where water collects and bacteria can grow)
+[Food safe design principles](https://www.meatinstitute.org/sites/default/files/original%20documents/Sanitation%20booklet%202021.pdf):
+
+- Inert materials
+- Simple shapes that are easy to clean
+- Smooth surface finish
+- No crevices where water collects and bacteria can grow)
 
 ### Design for safety
 
@@ -64,7 +69,7 @@ Good ways to document electronics on a website:
 
 ### Usability
 
-A QR code on the device that points to the manual can be a nice touch.
+A QR code on the device that points to the documentation can be a nice touch.
 
 Design 3D printed enclosures with [shadow lines](https://youtu.be/8dhFhU7Nl_0?si=9pBpZQx7DmvqgBTx) like they do for injection molding.
 
@@ -75,6 +80,7 @@ Would the device benefit from a small battery or capacitor to keep the clock run
 Asymmetrical hole placement, so that you can't assemble the wrong way:
 
 <img src="fab_lab_isafjordur_injection_mold_by_johannes_konrad_weber.jpg" width="500">
+Injection mold designed by Johannes Konrad Weber.
 
 Pre-load things to eliminate rattle - use e.g. spring washers. 
 - [Automotive buzz, squeak and rattle book](https://www.amazon.com/Automotive-Buzz-Squeak-Rattle-Mechanisms-ebook/dp/B006NVY2VS) 
