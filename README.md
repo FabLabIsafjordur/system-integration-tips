@@ -1,17 +1,17 @@
 ## System integration tips from Fab Lab Ísafjörður
 
-Here are a few tips that might be useful for System integration week:
+Here are a few tips that might be useful for [System integration week](http://academy.cba.mit.edu/classes/system_integration/index.html) in the [Fab Academy](https://fabacademy.org/):
 
 ### Cable management
-Svavar demonstrates how you can embed mesh fabric into 3D prints and make a cable carrier:
+[Svavar](https://fabacademy.org/2023/labs/isafjordur/students/svavar-konradsson/) demonstrates how you can embed mesh fabric into 3D prints and make a cable carrier:
 
 <a href="https://fab.cba.mit.edu/classes/865.24/people/svavar/components/cable_carrier/"><video autoplay="true" loop="true" src="https://fab.cba.mit.edu/classes/865.24/people/svavar/components/images/cable_carrier/cable_carrier.mp4" title="3D printed cable carrier" width="500"></video></a>
 
-Links from Cedric Honnet:
+Links from [Cedric Honnet](https://honnet.github.io/):
 
 "Cables can be protected by [articulated](https://www.amazon.com/Plastic-Machine-Carrier-Ted-Lele/dp/B074S2GQ56/?th=1), [braided](https://www.amazon.com/Keco-100ft-Expandable-Braided-Sleeving/dp/B07K1WP871?th=1) or [hybrid wrappers](https://www.amazon.com/Management-Diameter-Organizer-Expandable-Concealer/dp/B07PPR47ZV/?th=1)".
 
-Vineet Padia has mentioned [a way to document wiring harnesses](https://github.com/wireviz/WireViz).
+[Vineet Padia](https://vineetpadia.github.io/about.html) has mentioned [a way to document wiring harnesses](https://github.com/wireviz/WireViz).
 
 It's good for students to know that [pogo pins](https://youtube.com/shorts/ujPLo5TwJpo?si=bV2MN7eU0-r7oVI-) and [slip rings](https://www.electrical4u.com/slip-ring/?utm_content=cmp-true) exist.
 
@@ -81,7 +81,7 @@ Asymmetrical hole placement, so that you can't assemble the wrong way:
 
 <img src="fab_lab_isafjordur_injection_mold_by_johannes_konrad_weber.jpg" width="500">
 
-Injection mold designed by Johannes Konrad Weber.
+Injection mold designed by [Jóhannes Andrésson](https://www.linkedin.com/in/johannes-weber/).
 
 Pre-load things to eliminate rattle - use e.g. spring washers. 
 - [Automotive buzz, squeak and rattle book](https://www.amazon.com/Automotive-Buzz-Squeak-Rattle-Mechanisms-ebook/dp/B006NVY2VS) 
@@ -89,7 +89,7 @@ Pre-load things to eliminate rattle - use e.g. spring washers.
 
 ### Design for repair
 
-The amplifier unit in this PA speaker has a generous cable length, so Þórarinn could pop it out and troubleshoot: 
+The amplifier unit in this PA speaker has a generous cable length, so [Þórarinn](https://fabacademy.org/archives/2015/eu/students/gunnarsson.thorarinn_b.b/index.html) could pop it out and troubleshoot: 
 <img src="speaker_repair.jpg" width="500">
 
 [Right to repair](https://en.wikipedia.org/wiki/) 
