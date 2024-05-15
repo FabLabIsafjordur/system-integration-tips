@@ -31,7 +31,7 @@ A nice example of the importance of packaging:
   </tr>
 </table>
 
-[Árni Björnsson](https://fabacademy.org/2022/labs/isafjordur/students/arni-bjornsson/)'s final project makes kids interested in electronics by using a transparent enclosure:
+[Árni Björnsson](https://fabacademy.org/2022/labs/isafjordur/students/arni-bjornsson/)'s final project reveals everything with a transparent enclosure:
 
 <img src="https://fabacademy.org/2022/labs/isafjordur/students/arni-bjornsson/images/final/mountedBack.jpg" width="500">
 
