@@ -8,7 +8,7 @@ You can embed mesh fabric into 3D prints and make a cable carrier:
 
 [![3D printed cable carrier](https://fab.cba.mit.edu/classes/865.24/people/svavar/components/images/cable_carrier/cable_carrier.jpg)](https://fab.cba.mit.edu/classes/865.24/people/svavar/components/cable_carrier/)
 
-This design was a response to Nikhil Lal's question on Discord about how we were managing cables. Cedric Honnet posted this:
+Svavar made this as a response to Nikhil Lal's question on Discord about how we were managing cables. Cedric Honnet posted this:
 
 "Cables can be protected by [articulated](https://www.amazon.com/Plastic-Machine-Carrier-Ted-Lele/dp/B074S2GQ56/?th=1), [braided](https://www.amazon.com/Keco-100ft-Expandable-Braided-Sleeving/dp/B07K1WP871?th=1) or [hybrid wrappers](https://www.amazon.com/Management-Diameter-Organizer-Expandable-Concealer/dp/B07PPR47ZV/?th=1)".
 
@@ -16,11 +16,21 @@ This design was a response to Nikhil Lal's question on Discord about how we were
 Vineet Padia mentioned [a way to document wiring harnesses](https://github.com/wireviz/WireViz).
 
 A nice example of the importance of packaging:
-Virtual detents were developed by Jesse Schoch: https://youtu.be/1gPQfDkX3BU?si=Nw4lrJQ-mKGDoMy1&t=859
-But the method didn't become popular until it was packaged as the SmartKnob by Scott Bezek: https://youtu.be/ip641WmY4pA?si=FMXZIBXmvUoXk3_i
+<table style="width:100%">
+  <tr>
+    <td>Virtual detents were developed by Jesse Schoch:<video autoplay="true" loop="true" width=100%>
+        <source src="virtual_detents.mp4" type="video/mp4">
+    </video></td>
+    <td>But the method didn't become popular until it was packaged as the SmartKnob by Scott Bezek:<video autoplay="true" loop="true" width=100%>
+        <source src="smartknob_detents.mp4" type="video/mp4">
+    </video></td>
+  </tr>
+</table>
+ https://youtu.be/1gPQfDkX3BU?si=Nw4lrJQ-mKGDoMy1&t=859
+ https://youtu.be/ip641WmY4pA?si=FMXZIBXmvUoXk3_i
 
 I like this quote from Dan Gelbart:
-“I cannot overemphasis the importance of making everything with keyholes and slots and captive hardware. If you spend all your life in R&D you’ll spend about one year of your life taking screws out of covers, so if you do it in slots, it’s the same as extending your life by the same amount of health food plus exercise extends your life, and it’s much simpler.”
+“I cannot overemphasise the importance of making everything with keyholes and slots and captive hardware. If you spend all your life in R&D you’ll spend about one year of your life taking screws out of covers, so if you do it in slots, it’s the same as extending your life by the same amount of health food plus exercise extends your life, and it’s much simpler.”
 Source: https://makezine.com/article/digital-fabrication/machining/18-lessons-smart-prototyping-self-made-billionaire/
 
 Dan Gelbart's notes on quick prototyping:
