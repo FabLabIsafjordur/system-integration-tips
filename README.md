@@ -1,4 +1,4 @@
-# system-integration-tips ([repo](https://github.com/FabLabIsafjordur/system-integration-tips))
+System integration tips from Fab Lab Ísafjörður
 
 Here are a few tips that might be useful for System integration week:
 
@@ -31,15 +31,17 @@ A nice example of the importance of packaging:
 A good [quote](https://makezine.com/article/digital-fabrication/machining/18-lessons-smart-prototyping-self-made-billionaire/) from Dan Gelbart:
 >I cannot overemphasise the importance of making everything with keyholes and slots and captive hardware. If you spend all your life in R&D you’ll spend about one year of your life taking screws out of covers, so if you do it in slots, it’s the same as extending your life by the same amount of health food plus exercise extends your life, and it’s much simpler.
 
-Dan Gelbart's notes on quick prototyping: [Part 1](https://people.ece.ubc.ca/leos/pdf/tools/machine/DGCourseNotes.pdf), [Part 2](https://people.ece.ubc.ca/leos/pdf/tools/machine/DGCourseNotes2.pdf)
+Dan Gelbart's classic notes on quick prototyping: [Part 1](https://people.ece.ubc.ca/leos/pdf/tools/machine/DGCourseNotes.pdf), [Part 2](https://people.ece.ubc.ca/leos/pdf/tools/machine/DGCourseNotes2.pdf)
 
 Good ways to document electronics on a website:
 [InteractiveHtmlBom](https://github.com/openscopeproject/InteractiveHtmlBom)
+
 [Kicanvas](https://kicanvas.org/)
 
 [Food safe design principles](https://www.meatinstitute.org/sites/default/files/original%20documents/Sanitation%20booklet%202021.pdf) (inert materials, simple shapes that are easy to clean, smooth surfaces, no crevices where water collects and bacteria can grow)
 
-Safety features: A colleague at an Icelandic company put [two buttons far apart](https://www.osha.gov/etools/machine-guarding/presses/two-hand-controls#mod1) on a silicone molding press. The operator needs to push the buttons with both hands to operate the press, to eliminate the chance of getting their hand crushed.
+Safety features: A colleague at an Icelandic company put two buttons far apart on a silicone molding press. The operator needs to push the buttons with both hands to operate the press, to eliminate the chance of getting their hand crushed:
+![Design for safety](https://www.osha.gov/sites/default/files/inline-images/pb11.gif)*Image from [OSHA](https://www.osha.gov/etools/machine-guarding/presses/two-hand-controls#mod1)*
 
 A QR code on the device that points to the manual can be a nice touch.
 
@@ -52,6 +54,7 @@ Asymmetrical holes, so that you can't assemble the wrong way:
 
 Pre-load things to eliminate rattle - use e.g. spring washers. 
 [Automotive buzz, squeak and rattle book](https://www.amazon.com/Automotive-Buzz-Squeak-Rattle-Mechanisms-ebook/dp/B006NVY2VS) 
+
 [Development of the Saab squeak and rattle design guidelines](http://www.diva-portal.org/smash/get/diva2:215325/FULLTEXT01.pdf)
 
 Usability: Would the device benefit from a small battery or capacitor to keep the clock running while it's not connected to power?
@@ -60,6 +63,8 @@ Usability: Would the device benefit from a small battery or capacitor to keep th
 
 Design for repair: The amplifier unit in this PA speaker has a generous cable length, so Þórarinn could pop it out and troubleshoot: 
 ![PA speaker repair](https://files.svavar.cc/fab/speaker_repair.jpg)
+
 [Right to repair](https://en.wikipedia.org/wiki/) 
+
 [Repair cafe](https://www.repaircafe.org/en/) (we host those at Fab Lab Ísafjörður, the atmosphere is great and it boosts community engagement with the lab)
 
