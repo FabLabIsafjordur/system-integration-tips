@@ -33,11 +33,11 @@ A nice example of the importance of packaging:
 
 [Árni Björnsson](https://fabacademy.org/2022/labs/isafjordur/students/arni-bjornsson/)'s final project makes kids interested in electronics by using a transparent enclosure:
 
-<img src="https://fabacademy.org/2022/labs/isafjordur/students/arni-bjornsson/images/final/mountedBack.jpg" width="400">
+<img src="https://fabacademy.org/2022/labs/isafjordur/students/arni-bjornsson/images/final/mountedBack.jpg" width="500">
 
 Wires hidden inside the structure of an LED-studded dress and integrated button, by [Hafey Hallgrímsdóttir](https://fabacademy.org/2023/labs/isafjordur/students/hafey-hallgrimsdottir/):
 
-<img src="view-source:https://fabacademy.org/2023/labs/isafjordur/students/hafey-hallgrimsdottir/images/Final%20Project/g16.JPG" width="100%">
+<img src="https://fabacademy.org/2023/labs/isafjordur/students/hafey-hallgrimsdottir/images/Final%20Project/g16.JPG" width="100%">
 
 [The work that comes after the first rough prototype](https://youtu.be/caYl8u7Gd0A?si=M49v6m-484e8k_2f) 
 
