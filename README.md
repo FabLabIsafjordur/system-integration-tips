@@ -4,7 +4,7 @@ Here are a few tips that might be useful for System integration week:
 
 You can embed mesh fabric into 3D prints and make a cable carrier:
 
-<a href="https://fab.cba.mit.edu/classes/865.24/people/svavar/components/cable_carrier/"><video autoplay="true" loop="true" src="https://fab.cba.mit.edu/classes/865.24/people/svavar/components/images/cable_carrier/cable_carrier.mp4" title="3D printed cable carrier"></video></a>
+<a href="https://fab.cba.mit.edu/classes/865.24/people/svavar/components/cable_carrier/"><video autoplay="true" loop="true" src="https://fab.cba.mit.edu/classes/865.24/people/svavar/components/images/cable_carrier/cable_carrier.mp4" title="3D printed cable carrier" width="500"></video></a>
 
 Svavar made this as a response to Nikhil Lal's question on Discord about how we were managing cables. Cedric Honnet posted this:
 
@@ -42,7 +42,7 @@ Good ways to document electronics on a website:
     <td>Safety features: A colleague at an Icelandic company put two buttons far apart on a silicone molding press. The operator needs to push the buttons with both hands to operate the press, to eliminate the chance of getting their hand crushed.
     </td>
     <td><img src="https://www.osha.gov/sites/default/files/inline-images/pb11.gif">
-    *Image from [OSHA](https://www.osha.gov/etools/machine-guarding/presses/two-hand-controls#mod1)*
+    *Image from <a href="https://www.osha.gov/etools/machine-guarding/presses/two-hand-controls#mod1">OSHA</a>
     </td>
   </tr>
 </table>
@@ -55,9 +55,7 @@ Design 3D printed enclosures with [shadow lines](https://youtu.be/8dhFhU7Nl_0?si
 
 Asymmetrical holes, so that you can't assemble the wrong way:
 
-<img src="https://files.svavar.cc/fab/fab_lab_isafjordur_injection_mold_by_johannes_konrad_weber.jpg" width="500">
-
-![Asymmetrical holes](https://files.svavar.cc/fab/fab_lab_isafjordur_injection_mold_by_johannes_konrad_weber.jpg)
+<img src="fab_lab_isafjordur_injection_mold_by_johannes_konrad_weber.jpg" width="500">
 
 Pre-load things to eliminate rattle - use e.g. spring washers. 
 - [Automotive buzz, squeak and rattle book](https://www.amazon.com/Automotive-Buzz-Squeak-Rattle-Mechanisms-ebook/dp/B006NVY2VS) 
@@ -68,7 +66,7 @@ Usability: Would the device benefit from a small battery or capacitor to keep th
 [The work that comes after the first rough prototype](https://youtu.be/caYl8u7Gd0A?si=M49v6m-484e8k_2f) 
 
 Design for repair: The amplifier unit in this PA speaker has a generous cable length, so Þórarinn could pop it out and troubleshoot: 
-![PA speaker repair](https://files.svavar.cc/fab/speaker_repair.jpg)
+<img src="speaker_repair.jpg" width="500">
 
 [Right to repair](https://en.wikipedia.org/wiki/) 
 
