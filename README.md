@@ -1,6 +1,7 @@
 # system-integration-tips
 Tips on how finish your project nicely 
 
+<video controls src="smartknob_detents.mp4" title=""></video>
 
 Here are a few links that might be useful for System integration week:
 
