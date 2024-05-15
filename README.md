@@ -1,4 +1,4 @@
-System integration tips from Fab Lab Ísafjörður
+## System integration tips from Fab Lab Ísafjörður
 
 Here are a few tips that might be useful for System integration week:
 
@@ -17,11 +17,11 @@ A nice example of the importance of packaging:
   <tr>
     <td>Virtual detents were developed by Jesse Schoch:
     
-    <video autoplay="true" loop="true" src="virtual_detents.mp4" title=""></video>
+    <a href="https://youtu.be/1gPQfDkX3BU?si=Nw4lrJQ-mKGDoMy1&t=859"><video autoplay="true" loop="true" src="virtual_detents.mp4" title=""></video></a>
     </td>
     <td>But the method didn't become popular until it was packaged as the SmartKnob by Scott Bezek:
 
-    <video autoplay="true" loop="true" src="smartknob_detents.mp4" title=""></video>
+    <a href="https://youtu.be/ip641WmY4pA?si=FMXZIBXmvUoXk3_i"><video autoplay="true" loop="true" src="smartknob_detents.mp4" title=""></video></a>
     </td>
   </tr>
 </table>
