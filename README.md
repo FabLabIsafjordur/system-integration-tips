@@ -6,7 +6,7 @@ You can embed mesh fabric into 3D prints and make a cable carrier:
 
 [![3D printed cable carrier](https://fab.cba.mit.edu/classes/865.24/people/svavar/components/images/cable_carrier/cable_carrier.jpg)](https://fab.cba.mit.edu/classes/865.24/people/svavar/components/cable_carrier/)
 
-<a href="https://fab.cba.mit.edu/classes/865.24/people/svavar/components/cable_carrier/"><video autoplay="true" loop="true" src="<video controls src="https://fab.cba.mit.edu/classes/865.24/people/svavar/components/images/cable_carrier/cable_carrier.mp4" title="3D printed cable carrier"></video></a>
+<a href="https://fab.cba.mit.edu/classes/865.24/people/svavar/components/cable_carrier/"><video autoplay="true" loop="true" src="https://fab.cba.mit.edu/classes/865.24/people/svavar/components/images/cable_carrier/cable_carrier.mp4" title="3D printed cable carrier"></video></a>
 
 Svavar made this as a response to Nikhil Lal's question on Discord about how we were managing cables. Cedric Honnet posted this:
 
