@@ -41,7 +41,7 @@ Good ways to document electronics on a website:
   <tr>
     <td>Safety features: A colleague at an Icelandic company put two buttons far apart on a silicone molding press. The operator needs to push the buttons with both hands to operate the press, to eliminate the chance of getting their hand crushed.
     </td>
-    <td>![Design for safety](https://www.osha.gov/sites/default/files/inline-images/pb11.gif)
+    <td><img src="https://www.osha.gov/sites/default/files/inline-images/pb11.gif">
     *Image from [OSHA](https://www.osha.gov/etools/machine-guarding/presses/two-hand-controls#mod1)*
     </td>
   </tr>
@@ -55,7 +55,7 @@ Design 3D printed enclosures with [shadow lines](https://youtu.be/8dhFhU7Nl_0?si
 
 Asymmetrical holes, so that you can't assemble the wrong way:
 
-<img src="!https://files.svavar.cc/fab/fab_lab_isafjordur_injection_mold_by_johannes_konrad_weber.jpg" width="500" height="500">
+<img src="https://files.svavar.cc/fab/fab_lab_isafjordur_injection_mold_by_johannes_konrad_weber.jpg" width="500">
 
 ![Asymmetrical holes](https://files.svavar.cc/fab/fab_lab_isafjordur_injection_mold_by_johannes_konrad_weber.jpg)
 
